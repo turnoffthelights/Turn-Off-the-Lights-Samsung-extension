@@ -14,6 +14,15 @@ Project<br>
 
 Using Turn Off the Lights to dims the web page and reduces the eye strain caused by the bright screen. And it will highlight the video player on that web page such as on YouTube.
 
+## Download
+</br>
+<p align="center">
+  <a href="https://galaxystore.samsung.com/detail/com.stefanvd.turnoffthelightssamsung">
+    <img height="58" src="https://i.imgur.com/UT5Rgrw.png" alt="Galaxy Store"></a></br>
+    For Samsung Internet 11 or newer
+</p>
+
+## Supporting the Project
 
 **[Join our growing community on Facebook](https://www.facebook.com/turnoffthelight) to stay up to date!**
 
