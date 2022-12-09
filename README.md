@@ -17,7 +17,7 @@ Using Turn Off the Lights to dims the web page and reduces the eye strain caused
 ## Download
 </br>
 <p align="center">
-  <a href="https://galaxystore.samsung.com/detail/com.stefanvd.turnoffthelightssamsung">
+  <a href="https://galaxy.store/totl">
     <img height="58" src="https://i.imgur.com/UT5Rgrw.png" alt="Galaxy Store"></a></br>
     For Samsung Internet 11 or newer
 </p>
